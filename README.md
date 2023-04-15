@@ -17,3 +17,7 @@ List of the things interested to explore
 ### Set up paperspace
 - Create a paperspace instance with fastai image.
 - setup the paper space by following the below steps in the repo : https://github.com/fastai/paperspace-setup
+
+
+### dev tools
+brew install rg - rust based linux tools for things like grep
