@@ -21,3 +21,11 @@ List of the things interested to explore
 
 ### dev tools
 brew install rg - rust based linux tools for things like grep
+
+
+### tools to master
+
+    - vim
+    - tmux
+    - regex
+    - jupyter
