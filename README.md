@@ -30,4 +30,14 @@ List of the things interested to explore
   - tmux
   - regex
   - jupyter
+  - gradio
 
+### Better way to setup and tools
+
+  - https://github.com/fastai/fastsetup
+  - https://github.com/fastai/fastpages
+  - https://github.com/fastai/nbdev
+ 
+### Deploy apps
+
+  - Use huggingface spaces , since it also gives api to use.
