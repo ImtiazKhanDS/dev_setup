@@ -20,8 +20,8 @@ List of the things interested to explore
 
 
 ### dev tools
-brew install rg - rust based linux tools for things like grep
-mamba install -c conda-forge jupyter_contrib_nbextensions
+- brew install rg - rust based linux tools for things like grep
+- mamba install -c conda-forge jupyter_contrib_nbextensions
 
 
 ### tools to master
