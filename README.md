@@ -41,3 +41,6 @@ List of the things interested to explore
 ### Deploy apps
 
   - Use huggingface spaces , since it also gives api to use.
+
+### Virtual Machine
+  - Use xrdp to connect to local machines : http://www.xrdp.org/
