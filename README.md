@@ -39,14 +39,10 @@ List of the things interested to explore
   - https://github.com/fastai/nbdev
  
 ### Deploy apps
-
-<<<<<<< Updated upstream
   - Use huggingface spaces , since it also gives api to use.
 
 ### Virtual Machine
   - Use xrdp to connect to local machines : http://www.xrdp.org/
-=======
-  - Use huggingface spaces , since it also gives api to use
 
 ### Python packages to master
   - numpy
@@ -56,4 +52,3 @@ List of the things interested to explore
 
 ### Presentation in jupyter
   - https://rise.readthedocs.io/en/stable/
->>>>>>> Stashed changes
