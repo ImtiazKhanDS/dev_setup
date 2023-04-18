@@ -1,4 +1,4 @@
-# fastaiexploration
+# Dev best practices by Jeremy Howard
 
 ## Introduction
 
