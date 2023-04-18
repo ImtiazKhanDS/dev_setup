@@ -52,3 +52,6 @@ List of the things interested to explore
 
 ### Presentation in jupyter
   - https://rise.readthedocs.io/en/stable/
+
+### Books
+  - https://wesmckinney.com/book/
