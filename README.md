@@ -55,3 +55,6 @@ List of the things interested to explore
 
 ### Books
   - https://wesmckinney.com/book/
+  
+### Research paper tools
+  - Zotero https://www.zotero.org/download/
